@@ -2109,11 +2109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aaron/Documents/C#-Personal/microservices/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "/Users/aaron/Documents/C#-Personal/microservices/Microservices-PlatformService/PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/aaron/Documents/C#-Personal/microservices/PlatformService/PlatformService.csproj",
+      "projectPath": "/Users/aaron/Documents/C#-Personal/microservices/Microservices-PlatformService/PlatformService.csproj",
       "packagesPath": "/Users/aaron/.nuget/packages/",
-      "outputPath": "/Users/aaron/Documents/C#-Personal/microservices/PlatformService/obj/",
+      "outputPath": "/Users/aaron/Documents/C#-Personal/microservices/Microservices-PlatformService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aaron/.nuget/NuGet/NuGet.Config"
