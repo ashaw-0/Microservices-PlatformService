@@ -1,5 +1,5 @@
-using PlatformService.Data;
-using PlatformService.Models;
+using Microservices_PlatformService.Data;
+using Microservices_PlatformService.Models;
 namespace Microservices_PlatformService.Data
 {
     //Test in mem db

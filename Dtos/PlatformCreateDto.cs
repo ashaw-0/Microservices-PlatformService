@@ -1,18 +1,15 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Microservices_PlatformService.Models
+namespace Microservices_PlatformService.Dtos
 {
-    public class Platform
+    public class PlatformCreateDto
     {
-        [Key]
-        [Required]
-        public int ID {get; set;}
+        //cant supply ID as platform creates ID
         [Required]
         public string Name {get;set;}
         [Required]
         public string Publisher {get;set;}
         [Required]
         public string Cost {get;set;}
-
     }
 }

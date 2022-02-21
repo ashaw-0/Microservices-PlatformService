@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using PlatformService.Models;
-namespace PlatformService.Data
+using Microservices_PlatformService.Models;
+namespace Microservices_PlatformService.Data
 {
     public class AppDbContext : DbContext
     {
